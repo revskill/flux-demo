@@ -1,0 +1,35 @@
+{
+  "name": "flux-demo",
+  "version": "1.0.0",
+  "description": "Flux demo",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "fluxxor": "^1.5.2",
+    "jsx-loader": "^0.12.2",
+    "react": "^0.12.2",
+    "webpack": "^1.5.3"
+  },
+  "devDependencies": {
+    "fluxxor": "^1.5.2",
+    "react": "^0.12.2",
+    "webpack": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ".\\start.cmd",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revskill/flux-demo"
+  },
+  "keywords": [
+    "flux"
+  ],
+  "author": "Truong Hoang Dung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revskill/flux-demo/issues"
+  },
+  "homepage": "https://github.com/revskill/flux-demo"
+}
